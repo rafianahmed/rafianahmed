@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**rafianahmed/rafianahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rafian Ahmed Raad
 
-Here are some ideas to get you started:
+Finance + Data Science student building practical finance tools (PPP/IRP, FX arbitrage, hedging) and data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tech: Python (pandas), SQL, JavaScript, Power BI, Excel
+- Interests: Quant / Data / Risk Analytics
+- Links: [LinkedIn] (https://www.linkedin.com/in/rafianahmedraad/) | raadrafianahmed@gmail.com 
+
+## Featured Projects
+- PPP/IRP Calculator 
+- FX Arbitrage (Triangular + CIP) 
+- FX Hedging Recommender 
