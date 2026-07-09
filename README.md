@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there%20👋&fontSize=60&animation=fadeIn" alt="Header Banner" />
+</p>
+
 # Hey there 👋
 
 My name is **Rafian Ahmed Raad**. I'm a Computer Science student at **KAIST** (double major in Business Technology Management) in South Korea. 🇰🇷
@@ -19,6 +23,16 @@ I specialize in **optimization and machine learning applied to finance and marke
 - 🔗 Global Scholarships [Featured](https://globalscholarships.com/scholarship-posts/raad-rafian-ahmed/)
 - 🔗 Kaggle Work: [Kaggle](https://www.kaggle.com/rafiankasit22)
 - ⚡ Fun fact: I've gone from analyzing pre-market trading data to scraping SEC filings to optimizing autonomous drone swap missions — I like following the data wherever it leads.
+
+---
+
+### 📊 GitHub Analytics & Core Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafianahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rafian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafianahmed&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" />
+</p>
+
+---
 
 ## 🎓 Education
 
@@ -48,6 +62,14 @@ I specialize in **optimization and machine learning applied to finance and marke
 - Credit risk and expected loss estimation modeling; portfolio optimization and time-series forecasting projects
 
 ## 🛠️ Skills & Technologies
+
+### 💻 Tech Stack Badges
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Programming & ML:** `Python` · `R` · `PyTorch` · `Deep Learning` · `Data Pipelines` · `Data Engineering` · `NeMo Curator` · `SQL (Advanced)` · `GitHub`
 
@@ -88,12 +110,9 @@ I specialize in **optimization and machine learning applied to finance and marke
 - Best Leadership Award – KAIST College of Business
 - Pioneer of the MCC Robotics Lab – helped establish hands-on technical learning at Mirzapur Cadet College
 
-### 🐍 Contribution Activity Tracker
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafianahmed/rafianahmed/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
-</p>
-<br>
+---
 
+### 🐍 Contribution Activity Tracker
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafianahmed/rafianahmed/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </p>
