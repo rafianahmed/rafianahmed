@@ -52,6 +52,7 @@ I specialize in **optimization and machine learning applied to data science and 
 - Ranked **11th** in a Kaggle competition on algorithmic trading in electricity markets (Ensimag IF 2025)
 - Derivative hedging using reinforcement learning — applied RL methods to dynamic hedging strategies
 - Credit risk and expected loss estimation modeling; portfolio optimization and time-series forecasting projects
+- Bayesian-Error-Rate Classification Error Minimizer
 
 ## 🛠️ Skills & Technologies
 
