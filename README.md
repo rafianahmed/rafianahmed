@@ -26,14 +26,6 @@ I specialize in **optimization and machine learning applied to finance and marke
 
 ---
 
-### 📊 GitHub Analytics & Core Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafianahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rafian's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafianahmed&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 🎓 Education
 
 - **KAIST**, B.Sc. in Computer Science, Double Major in Business Technology Management | *[2022.08 - 2027.12]* — KAIST Scholarship Recipient
