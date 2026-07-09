@@ -16,7 +16,8 @@ I specialize in **optimization and machine learning applied to finance and marke
 - 🌱 I'm currently building deeper skills in **deep learning (PyTorch), NLP (Transformers/BERT), and MLOps**
 - 📫 To reach me, email: **raadrafianahmedraad@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rafianahmedraad)
--  🔗 Global Scholarships [Featured]([https://www.linkedin.com/in/rafianahmedraad](https://globalscholarships.com/scholarship-posts/raad-rafian-ahmed/)  
+- 🔗 Global Scholarships [Featured](https://globalscholarships.com/scholarship-posts/raad-rafian-ahmed/)
+- 🔗 Kaggle Work: [Kaggle](https://www.kaggle.com/rafiankasit22)
 - ⚡ Fun fact: I've gone from analyzing pre-market trading data to scraping SEC filings to optimizing autonomous drone swap missions — I like following the data wherever it leads.
 
 ## 🎓 Education
