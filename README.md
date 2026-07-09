@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there%20👋&fontSize=60&animation=fadeIn" alt="Header Banner" />
 </p>
 
-# Hey there 👋
 
 My name is **Rafian Ahmed Raad**. I'm a Computer Science student at **KAIST** (double major in Business Technology Management) in South Korea. 🇰🇷
 
