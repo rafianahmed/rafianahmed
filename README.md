@@ -113,6 +113,7 @@ I specialize in **optimization and machine learning applied to finance and marke
 ---
 
 ### 🐍 Contribution Activity Tracker
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafianahmed/rafianahmed/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </p>
