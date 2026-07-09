@@ -5,13 +5,13 @@
 
 My name is **Rafian Ahmed Raad**. I'm a Computer Science student at **KAIST** (double major in Business Technology Management) in South Korea. 🇰🇷
 
-I specialize in **optimization and machine learning applied to finance and markets** — building models at the intersection of quantitative finance and operations research: derivative hedging with reinforcement learning, credit risk and expected loss estimation, portfolio optimization, and time-series forecasting. I ranked **11th in a Kaggle competition on algorithmic trading in electricity markets** (Ensimag IF 2025).
+I specialize in **optimization and machine learning applied to data science and financial markets** — building data models and architecutures for accurate reporting at the intersection of quantitative finance and operations research but not limited to it. 
 
 📈 I'm currently a **Research Intern in AI, Optimization & Autonomous Mission Systems** at Avalon Aircraft, contributing to mission planning and optimization for autonomous aerial and ground vehicles — building scheduling algorithms, docking decision logic, and Python-based simulation environments.
 
 💼 I'm also a **Private Equity & Venture Capital Intern** at Venture Starters, supporting deal research, investment strategy, and portfolio-facing workflows.
 
-🧮 Previously, I worked as a **Quantitative Researcher** at WorldQuant, applying quantitative research workflows and hypothesis testing to explore alpha signals, and as a **Strategic Portfolio Management Intern** at UCB Stock Brokerage, building a price-prediction model incorporating trading sessions, volatility indices, and risk-adjusted return ratios.
+🧮 Previously, I worked as a **Quantitative Researcher** at WorldQuant, applying quantitative research workflows and hypothesis testing to explore alpha signals, and as a **Technical Analyst** at UCB Stock Brokerage, building a price-prediction model incorporating trading sessions, volatility indices, and risk-adjusted return ratios.
 
 🗂️ As a **Data Engineer** at the KAIST College of Business, I built a large-scale pipeline to scrape and structure SEC EDGAR filings (10-K/10-Q) across the S&P 500, NASDAQ 100, S&P 1500, and Russell 3000 — laying the foundation for a Seeking-Alpha-style financial data platform.
 
@@ -35,13 +35,13 @@ I specialize in **optimization and machine learning applied to finance and marke
 
 - **Avalon Aircraft** – Research Intern, AI, Optimization & Autonomous Mission Systems | *[2026.07 - Present]*
 - **Venture Starters** – Private Equity & Venture Capital Intern | *[2026.07 - Present]*
-- **WorldQuant** – Quantitative Researcher | *[2026.02 - 2026.06]*
-- **UCB Stock Brokerage Limited** – Strategic Portfolio Management Intern | *[2025.07 - 2025.08]*
+- **WorldQuant** – Quantitative Researcher, World Quant Championship - Top 20% | *[2026.02 - 2026.06]*
+- **UCB Stock Brokerage Limited** – Technical Analyst Intern | *[2025.07 - 2025.08]*
 - **Shanta Securities** – Research and Strategy Planning Intern | *[2025.06]*
 - **KAIST College of Business** – Data Engineer | *[2024.12 - 2025.02]*
-- **UCB Stock Brokerage Limited** – Investment Analyst | *[2024.07 - 2024.08]*
-- **KPG Capital Partners** – Research Analyst | *[2024.03 - 2024.06]*
-- **KAIST Graduate School of Future Strategy, Data Strategy Lab** – Research Intern | *[2024.03 - 2024.05]*
+- **UCB Stock Brokerage Limited** – Investment Analyst Intern | *[2024.07 - 2024.08]*
+- **KPG Capital Partners** – Research Analyst Intern | *[2024.03 - 2024.06]*
+- **KAIST Graduate School of Future Strategy, Data Strategy Lab** – Undergraduate Research Intern | *[2024.03 - 2024.05]*
 
 ## 🤝 Volunteer / Fellowships
 
