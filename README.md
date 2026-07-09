@@ -64,19 +64,36 @@ I specialize in **optimization and machine learning applied to finance and marke
 
 ### 💻 Tech Stack Badges
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4169E1?style=for-the-badge&logo=linux-foundation&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Programming & ML:** `Python` · `R` · `PyTorch` · `Deep Learning` · `Data Pipelines` · `Data Engineering` · `NeMo Curator` · `SQL (Advanced)` · `GitHub`
+**🤖 Machine Learning & AI:** `Machine Learning` · `PyTorch` · `Scikit-Learn` · `NumPy` · `Pandas (Software)` · `XGBoost` · `LightGBM` · `CatBoost` · `Ensemble` · `Ridge Stacking` · `Generative AI` · `Natural Language Processing (NLP)` · `NeMo Curator` · `Azure AI Studio` · `Feature Engineering` · `EDA`
 
-**Finance & Research:** `Equity Research` · `Technical Analysis` · `Market Research` · `Strategy Planning` · `Competitor Analysis` · `Portfolio Optimization` · `Risk Modeling (VaR)`
+**📊 Data Science, Analytics & Operations Research:** `Optimization` · `Data Science` · `Data Analysis` · `Data Analytics` · `Data Visualization` · `Statistical Data Analysis` · `Quantitative Research` · `Wolfram Language`
 
-**Communication:** `Business Presentations` · `Report Writing` · `Stakeholder Communication` · `Research Memos`
+**🗄️ Data Engineering & Infrastructure:** `Data Engineering` · `Data Pipelines` · `Parallel Processing` · `API Development` · `Data Processing` · `Snowflake` · `Databricks` · `Microsoft Azure` · `Beautiful Soup` · `RSS` · `JSON` · `Data Collection` · `Data Management` · `Data Governance`
 
-**Tools:** `Jupyter` · `Microsoft Office Suite` · `CRM Discipline`
+**📈 Business Analysis & Quantitative Finance:** `Business Analysis` · `Quantitative Finance` · `Financial Analysis` · `Financial Forecasting` · `Investment Analysis` · `Equity Research` · `Market Research` · `Company Valuation` · `Financial Reporting` · `Net Asset Value (NAV)` · `U.S. SEC Filings` · `Capital Markets` · `Financial Markets` · `Trading` · `Portfolio Management` · `Risk Management` · `Financial Data` · `Project Management` · `Request Management`
+
+**📝 Academic & Methodology:** `Academic Writing` · `Research Methods` · `Literature Reviews` · `Qualitative Research` · `Report Writing` · `Microsoft Excel` · `Microsoft Power BI`
+
+---
+
+### 🏅 HackerRank Credentials & Certifications
+
+#### 🎯 Verified Badges
+*   **Problem Solving**
+*   **SQL**
+
+#### 📜 Verified Skill Certifications
+*   **Software Engineer** (Verified Role)
+*   **SQL (Advanced)** 
+*   **Rest API (Intermediate)**
+*   **JavaScript (Intermediate)**
+*   **Go (Basic)**
 
 **Languages:** English – IELTS 7.0 (C1, Fluent Professional)
 
