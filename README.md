@@ -127,11 +127,3 @@ I specialize in **optimization and machine learning applied to finance and marke
 - Best Leadership Award – KAIST College of Business
 - Pioneer of the MCC Robotics Lab – helped establish hands-on technical learning at Mirzapur Cadet College
 
----
-
-
-### 🐍 Contribution Activity Tracker
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafianahmed/rafianahmed/main/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
-</p>
